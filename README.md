@@ -1,4 +1,4 @@
-![alt text]([?raw=true](https://github.com/DonsPabloXYZ/telegram-get-api/blob/main/Screenshot_59.jpg))
+![alt text](https://github.com/DonsPabloXYZ/telegram-get-api/blob/main/Screenshot_59.jpg)
 
 # Telegram API_ID & API_HASH Getter
 
