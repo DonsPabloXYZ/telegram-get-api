@@ -1,3 +1,5 @@
+![alt text]([?raw=true](https://github.com/DonsPabloXYZ/telegram-get-api/blob/main/Screenshot_59.jpg))
+
 # Telegram API_ID & API_HASH Getter
 
 This script automates the process of obtaining your `API_ID` and `API_HASH` from Telegram using Selenium WebDriver. It requires ChromeDriver and the Chrome browser to work properly.
